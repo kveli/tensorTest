@@ -2,3 +2,4 @@ selenium
 pytest
 Pillow
 allure-pytest
+requests
